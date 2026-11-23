@@ -1,0 +1,8 @@
+# PyTorch (torch, torchaudio) lo instala instalar.ps1 según tengas o no tarjeta NVIDIA.
+# Versiones probadas juntas (nov. 2026): torch 2.11 + cu128, Python 3.14, Windows 11.
+omnivoice==0.2.1
+gradio>=6.32,<7     # interfaz web
+faster-whisper>=1.2.1,<2  # botón ✨ Transcribir
+imageio-ffmpeg>=0.8.1     # ffmpeg portátil: audios de WhatsApp, m4a, mp3
+soundfile
+huggingface_hub

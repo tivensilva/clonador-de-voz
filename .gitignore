@@ -1,0 +1,16 @@
+# Entorno e instalaciones
+.venv/
+__pycache__/
+*.pyc
+
+# Voces y audios: NUNCA se suben al repo
+mis_audios/
+salida/
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.opus
+*.flac
+*.pt
+mis_voces/

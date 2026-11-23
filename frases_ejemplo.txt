@@ -1,0 +1,10 @@
+# Una frase por línea. Opcional: "nombre | frase" para ponerle nombre al archivo.
+# Etiquetas que entiende el modelo: [laughter] (risa), [sigh] (suspiro).
+nevera | Abrí la nevera tres veces en cinco minutos, por si la comida se había reproducido sola. [sigh] No, no se reprodujo.
+gato | Señoras y señores, el gato acaba de tumbar un vaso, me miró a los ojos, y tumbó otro. Esto ya es personal.
+gym | Hoy fui al gimnasio. Bueno, pasé por el frente. Bueno, lo vi en una foto. Cuenta, ¿cierto?
+alarma | Pongo cinco alarmas para levantarme temprano y las apago todas con una precisión de francotirador. [laughter]
+dieta | Empiezo la dieta el lunes. ¿Cuál lunes? No sé, uno de esos, ya veremos.
+audio | Este mensaje de voz va a durar treinta segundos. [laughter] Mentira, son once minutos y no llego a ningún punto.
+wifi | Se fue el internet y descubrí que en esta casa vive más gente. Muy amables, por cierto.
+clon | Hola, soy el clon. El original está durmiendo. Yo me encargo de contestar los correos y de comerme las galletas.
